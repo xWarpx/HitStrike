@@ -1,0 +1,13 @@
+C:\Users\leohe\source\repos\TapStrike\TapStrike\bin\Debug\TapStrike.exe.config
+C:\Users\leohe\source\repos\TapStrike\TapStrike\bin\Debug\TapStrike.exe
+C:\Users\leohe\source\repos\TapStrike\TapStrike\bin\Debug\TapStrike.pdb
+C:\Users\leohe\source\repos\TapStrike\TapStrike\bin\Debug\TapStrike.xml
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.vbprojAssemblyReference.cache
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.home.resources
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.Resources.resources
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.vbproj.GenerateResource.cache
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.vbproj.CoreCompileInputs.cache
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.exe
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.xml
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.pdb
+C:\Users\leohe\source\repos\TapStrike\TapStrike\obj\Debug\TapStrike.Game.resources
